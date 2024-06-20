@@ -1,5 +1,13 @@
 # Apollo Server
 
+## Get Started
+```shell
+pnpm install
+pnpm dev
+```
+localhost:4000 접속
+
+## Commands
 ```shell
 pnpm lint       # ESLint warning 또는 error 하나라도 나오면 exit code 1 종료
 pnpm lint:fix   # 모든 파일 ESLint --fix
