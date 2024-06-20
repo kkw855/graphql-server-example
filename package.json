@@ -7,6 +7,7 @@
   "lint-staged": {
     "*.{ts,tsx}": [
       "prettier --write",
+      "prettier --check",
       "eslint --fix",
       "eslint --max-warnings 0"
     ]
