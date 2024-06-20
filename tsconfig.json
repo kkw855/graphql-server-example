@@ -9,5 +9,12 @@
     "esModuleInterop": true,
     "types": ["node"],
     "strict": true
+  },
+  "ts-node": {
+    "esm": true,
+    "files": true,
+    "transpileOnly": true,
+    "experimentalResolver": true,
+    "experimentalSpecifierResolution": "node"
   }
 }
