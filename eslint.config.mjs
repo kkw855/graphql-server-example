@@ -28,6 +28,6 @@ export default tseslint.config(
   eslintConfigPrettier,
   {
     // ESLint 에서 제외할 리스트
-    ignores: ['vite.config.ts', 'tailwind.config.ts'],
+    ignores: ['vite.config.ts', 'tailwind.config.ts', 'src/types.ts'],
   },
 )

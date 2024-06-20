@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/git,macos,nextjs,windows,intellij,webstorm,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,macos,nextjs,windows,intellij,webstorm,visualstudiocode,node
 
+src/types.ts
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
